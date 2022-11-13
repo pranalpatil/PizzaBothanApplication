@@ -1,0 +1,29 @@
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\bin\Debug\net6.0-windows\PizzaBothanApplication.exe
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\bin\Debug\net6.0-windows\PizzaBothanApplication.deps.json
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\bin\Debug\net6.0-windows\PizzaBothanApplication.runtimeconfig.json
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\bin\Debug\net6.0-windows\PizzaBothanApplication.dll
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\bin\Debug\net6.0-windows\PizzaBothanApplication.pdb
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.AssemblyInfo.cs
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.dll
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\refint\PizzaBothanApplication.dll
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.pdb
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.genruntimeconfig.cache
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\ref\PizzaBothanApplication.dll
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.Properties.Resources.resources
+\\Mac\Home\Desktop\Windows Data\University\Assignment\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.PizzaBothanApplications.resources
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.csproj.AssemblyReference.cache
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.PizzaBothanApplications.resources
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.Properties.Resources.resources
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.csproj.GenerateResource.cache
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.AssemblyInfoInputs.cache
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.AssemblyInfo.cs
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.csproj.CoreCompileInputs.cache
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.dll
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\refint\PizzaBothanApplication.dll
+\\Mac\Home\My Drive\University Data\Business Applications Programming\Assignment Data\Assignment 1 (Pizza Application)\PizzaBothanApplication\PizzaBothanApplication\obj\Debug\net6.0-windows\PizzaBothanApplication.pdb
